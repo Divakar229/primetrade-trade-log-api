@@ -1,0 +1,26 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+env/
+venv/
+
+# Environment variables (contains DB password & secret key)
+.env
+
+# Node
+node_modules/
+
+# Vite build output
+frontend/dist/
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
